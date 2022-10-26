@@ -1,0 +1,72 @@
+body{
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: auto;
+  font-family: sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+  font-size: 20px
+
+}
+
+
+.QUADRANTE{
+  margin: auto;
+  width: 50%;
+
+
+}
+
+.quadrantetrasparente{
+  width: 1500px;
+  height: 1000px;
+  padding: 90px;
+  background-color: #00000082;
+  border-radius: 10px;
+}
+
+.logo{
+  width: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#slogan{
+  color: #00dd00;
+  text-align: center;
+}
+
+#interattivi{
+  background-color: #00dd00;
+  height: 30px;
+  text-align: center;
+}
+
+
+
+.rectagle1{
+  background-color: orange;
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.rectagle2{
+  background-color: green;
+  width: 500px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.rectagle3{
+  background-color: red;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+main{
+  color: white;
+}
